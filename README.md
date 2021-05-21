@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Description about the projects:
+### Description about the projects:
 * Performed Exploratory data analysis using Python inclusing data visualization. 
 * Perfomed Data visualization using matplotlib and seaborn library to get the better insights of the data.
 * Predicted the optimum no. of clusters and its characteristics using K-Means clustering.
