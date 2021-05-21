@@ -1,5 +1,4 @@
-### Hi there 👋I am Syed Rizwan and this reposiory consists of the tasks that I have completed for The Sparks Foundation Internship 
-in Data Science and Business Analytics.
+### Hi there 👋I am Syed Rizwan and this reposiory consists of the tasks that I have completed for The Sparks Foundation Internship in Data Science and Business Analytics.
 
 <!--
 **Rizwan2705/Rizwan2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Description about the projects:
+* Performed Exploratory data analysis using Python inclusing data visualization. 
+* Perfomed Data visualization using matplotlib and seaborn library to get the better insights of the data.
+* Predicted the optimum no. of clusters and its characteristics using K-Means clustering.
+* Build the linear regression model to predict the dependent variable.
+* Performance metrics like R squared and RMSE have been used to validate the performance of predictions on Test & Train sets.
