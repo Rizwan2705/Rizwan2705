@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋I am Syed Rizwan and this reposiory consists of the tasks that I have completed for The Sparks Foundation Internship 
+in Data Science and Business Analytics.
 
 <!--
 **Rizwan2705/Rizwan2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Description about the projects:
